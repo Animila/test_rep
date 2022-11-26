@@ -1,4 +1,4 @@
-# Bitalya gay
+# Bitalya
 ### Norm text _Italic_ __Bold__ Norm text
 *****
 -------
@@ -7,7 +7,7 @@ test
 
 a
 
-___GAY___
+___GHI___
 
 ___test__ test_
 
@@ -22,7 +22,6 @@ ___test__ test_
 - c1
 
 
-HI __MY__ _FRIE<https://docs.python.org/3/library/re.html>NDS_ 
 
 <https://github.com/pandao/editor.md/tree/master/examples>
 312 [test](https://docs.python.org/3/library/re.html#regular-expression-syntax)
